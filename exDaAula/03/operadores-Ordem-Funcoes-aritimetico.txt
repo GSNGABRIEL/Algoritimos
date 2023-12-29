@@ -1,0 +1,27 @@
++ Adição            A + B = 7
+- Subtração         A - B = 3
+* Multiplicação     A * B = 10
+/ Divisão           A / B = 2.5
+\ Divisão inteira   A \ B = 2
+^ Exponenciação     A ^ B = 25
+% Modulo            A % B = 1
+
+A -> 5
+B -> 2
+
+Ordem de precedência:
+1º () Parênteses
+2º ^ Exponenciação
+3º */ multiplicação / Divisão
+4º +- Adição / subtração
+
+Função aritmética
+Abs         Valor Absoluto  Abs(-10)            10
+Exp         Exponenciação   Exp(3,2)            9
+Int         Valor Inteiro   Int(3.9)            3
+RaizQ       Raiz Quadrada   RaizQ(25)           5
+Pi          Retorna Pi      Pi                  3,14...
+Sen         Seno(rad)       Sen(0.523)          0.5
+Cos         Cosseno(rad)    Cos(0.523)          0.86
+Tan         Tangente(rad)   Tan(0.523)          0.57
+GraupRad    Graus Para Radiano GraupRad(30)     0.52
